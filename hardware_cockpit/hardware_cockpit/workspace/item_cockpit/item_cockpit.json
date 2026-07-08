@@ -1,0 +1,38 @@
+{
+ "app": "hardware_cockpit",
+ "charts": [],
+ "content": "[]",
+ "creation": "2026-07-07 11:13:28.127555",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "hide_custom": 0,
+ "icon": "retail",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Item Cockpit",
+ "link_type": "DocType",
+ "links": [],
+ "modified": "2026-07-07 11:13:28.127555",
+ "modified_by": "Administrator",
+ "module": "Hardware Cockpit",
+ "name": "Item Cockpit",
+ "number_cards": [],
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 0.0,
+ "shortcuts": [
+  {
+   "color": "Green",
+   "doc_view": "",
+   "label": "Open Item Cockpit",
+   "type": "URL",
+   "url": "/item-cockpit"
+  }
+ ],
+ "title": "Item Cockpit",
+ "type": "Workspace"
+}

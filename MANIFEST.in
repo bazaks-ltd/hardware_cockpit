@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include hardware_cockpit *.css
+recursive-include hardware_cockpit *.csv
+recursive-include hardware_cockpit *.html
+recursive-include hardware_cockpit *.ico
+recursive-include hardware_cockpit *.js
+recursive-include hardware_cockpit *.json
+recursive-include hardware_cockpit *.md
+recursive-include hardware_cockpit *.png
+recursive-include hardware_cockpit *.py
+recursive-include hardware_cockpit *.svg
+recursive-include hardware_cockpit *.txt
+recursive-exclude hardware_cockpit *.pyc
