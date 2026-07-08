@@ -9,6 +9,9 @@ app_license = "mit"
 # ------------------
 required_apps = ["erpnext"]
 
+# Desk: bounce the "Item Cockpit" workspace (/app/item-cockpit) to the SPA (/item-cockpit).
+app_include_js = ["/assets/hardware_cockpit/js/hardware_cockpit_desk.js"]
+
 # Show a tile on the Apps launcher screen (/apps) that opens the cockpit.
 add_to_apps_screen = [
 	{
